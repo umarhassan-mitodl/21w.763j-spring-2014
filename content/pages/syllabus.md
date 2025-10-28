@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, major assignments, required texts and media, grading, deadlines,
   attendance, electronics, and food and drink policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,9 +37,9 @@ Required Texts / Media
 
 Most readings will be made available online. The following text and game are required for the class and must be acquired by all students.
 
-Collins, Suzanne. _The Hunger Games_. Scholastic Press, 2010. ISBN: 9780439023528. \[Preview with [Google Books](http://books.google.com/books?id=hlb_sM1AN0gC&printsec=frontcover)\]
+Collins, Suzanne. _The Hunger Games_. Scholastic Press, 2010. ISBN: 9780439023528. \[Preview with {{% resource_link "52e0e7db-4387-4140-82de-9a83c1e4a73f" "Google Books" %}}\]
 
-[_Zombies, Run_](https://www.zombiesrungame.com/). Six to Start with Naomi Alderman, 2012-present.
+{{% resource_link "ce1418ff-349f-4fc5-adaf-934f1c4971a8" "_Zombies, Run_" %}}. Six to Start with Naomi Alderman, 2012-present.
 
 Students will also be required to sign up for and use an online tool to create and share curated collections of multiple media.
 

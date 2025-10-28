@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/aeba04dd270fbc0bc9666ed7a17c357e_MIT21W_763JS14_Wrldbuildng.pdf
 file_size: 225964
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/60985d8eea970ae84d77a2e0ffccaa43_MIT21W_763JS14_MmoirHelhm.pdf
 file_size: 549450
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

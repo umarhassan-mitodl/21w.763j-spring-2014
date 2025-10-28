@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides details on the three major assignments of the class
   and examples of student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -81,4 +79,4 @@ The Central Orbis Newspaper
 {{% resource_link 274468ab-8b08-404f-aed2-75b583cee904 "June 19, 2480 (PDF)" %}}  
 {{% resource_link 233b8dd6-96b3-ba80-3d9b-138f3005561e "June 20, 2480 (PDF)" %}}
 
-[The Hidden Zebra Blog](http://imquagga.blogspot.in/)
+{{% resource_link "cb02aafb-7cd9-4c16-9837-d2633cf318b0" "The Hidden Zebra Blog" %}}
